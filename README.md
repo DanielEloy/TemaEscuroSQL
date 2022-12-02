@@ -12,7 +12,7 @@ O tema escuro ou Dark Mode tem sido muito popular entre administradores e desenv
 
 Para ativar o tema Escuro do SSMS, siga estas etapas simples.
 
-##Feche o SSMS se estiver em execução. 
+## Feche o SSMS se estiver em execução. 
 Execute qualquer editor de texto como administrador
 Em nosso caso usamos, o  Bloco de Notas (Notepad) que pode ser usado para editar o arquivo de configuração do SSMS
 O arquivo de configuração (ssms.pkgundef) está localizado nos seguintes locais:
