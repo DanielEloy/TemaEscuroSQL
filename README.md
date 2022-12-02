@@ -1,5 +1,6 @@
 # TemaEscuroSQL
 Como habilitar o tema escuro
+![image](https://user-images.githubusercontent.com/58008758/205193870-eebfdfab-0714-4807-9b2d-f4b95f75bd17.png)
 
 ## Tema escuro do SSMS : Como Configurar
 Embora não seja oficialmente suportado pela Microsoft, o tema Escuro está disponível no SQL Server Management Studio 2016, 17 e na versão 18, a mais recente.
