@@ -60,3 +60,5 @@ Após a conclusão de um desses métodos, inicie o SSMS e altere o tema para esc
 Detalhe: Como mencionamos anteriormente, o tema Escuro do SSMS não é oficialmente suportado e provavelmente nunca será, o que é uma pena.
 Por isso que está desativado por padrão. 
 Pode haver alguns desvios visuais, por exemplo, fundo branco no Pesquisador de objetos, grade Resultados, etc.
+![image](https://user-images.githubusercontent.com/58008758/205279227-1f34b3a5-9863-47d5-ae4b-489240604d0c.png)
+
